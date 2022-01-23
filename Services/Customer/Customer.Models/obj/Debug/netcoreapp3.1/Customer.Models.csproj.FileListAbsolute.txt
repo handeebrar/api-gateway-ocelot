@@ -1,0 +1,9 @@
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Models/bin/Debug/netcoreapp3.1/Customer.Models.deps.json
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Models/bin/Debug/netcoreapp3.1/Customer.Models.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Models/bin/Debug/netcoreapp3.1/Customer.Models.pdb
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Models/obj/Debug/netcoreapp3.1/Customer.Models.csprojAssemblyReference.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Models/obj/Debug/netcoreapp3.1/Customer.Models.AssemblyInfoInputs.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Models/obj/Debug/netcoreapp3.1/Customer.Models.AssemblyInfo.cs
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Models/obj/Debug/netcoreapp3.1/Customer.Models.csproj.CoreCompileInputs.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Models/obj/Debug/netcoreapp3.1/Customer.Models.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Models/obj/Debug/netcoreapp3.1/Customer.Models.pdb

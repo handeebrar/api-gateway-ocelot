@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Customer.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Customer.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Customer.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Customer.Infrastructure.dll": {}
+        }
+      },
+      "Customer.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Customer.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Customer.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Customer.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Customer.Infrastructure/Customer.Infrastructure.csproj",
+      "msbuildProject": "../Customer.Infrastructure/Customer.Infrastructure.csproj"
+    },
+    "Customer.Models/1.0.0": {
+      "type": "project",
+      "path": "../Customer.Models/Customer.Models.csproj",
+      "msbuildProject": "../Customer.Models/Customer.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Customer.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/hgunesdogdu/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/Customer.Services.csproj",
+      "projectName": "Customer.Services",
+      "projectPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/Customer.Services.csproj",
+      "packagesPath": "/Users/hgunesdogdu/.nuget/packages/",
+      "outputPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/hgunesdogdu/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/Customer.Infrastructure.csproj": {
+              "projectPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/Customer.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

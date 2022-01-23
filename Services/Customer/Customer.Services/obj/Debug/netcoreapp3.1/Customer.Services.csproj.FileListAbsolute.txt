@@ -1,0 +1,14 @@
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/bin/Debug/netcoreapp3.1/Customer.Services.deps.json
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/bin/Debug/netcoreapp3.1/Customer.Services.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/bin/Debug/netcoreapp3.1/Customer.Services.pdb
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/bin/Debug/netcoreapp3.1/Customer.Infrastructure.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/bin/Debug/netcoreapp3.1/Customer.Models.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/bin/Debug/netcoreapp3.1/Customer.Infrastructure.pdb
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/bin/Debug/netcoreapp3.1/Customer.Models.pdb
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/obj/Debug/netcoreapp3.1/Customer.Services.csprojAssemblyReference.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/obj/Debug/netcoreapp3.1/Customer.Services.AssemblyInfoInputs.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/obj/Debug/netcoreapp3.1/Customer.Services.AssemblyInfo.cs
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/obj/Debug/netcoreapp3.1/Customer.Services.csproj.CoreCompileInputs.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/obj/Debug/netcoreapp3.1/Customer.Services.csproj.CopyComplete
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/obj/Debug/netcoreapp3.1/Customer.Services.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Services/obj/Debug/netcoreapp3.1/Customer.Services.pdb

@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/Reservation.Services.csproj": {}
+  },
+  "projects": {
+    "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Infrastructure/Reservation.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Infrastructure/Reservation.Infrastructure.csproj",
+        "projectName": "Reservation.Infrastructure",
+        "projectPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Infrastructure/Reservation.Infrastructure.csproj",
+        "packagesPath": "/Users/hgunesdogdu/.nuget/packages/",
+        "outputPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hgunesdogdu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/Reservation.Models.csproj": {
+                "projectPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/Reservation.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/Reservation.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/Reservation.Models.csproj",
+        "projectName": "Reservation.Models",
+        "projectPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/Reservation.Models.csproj",
+        "packagesPath": "/Users/hgunesdogdu/.nuget/packages/",
+        "outputPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hgunesdogdu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/Reservation.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/Reservation.Services.csproj",
+        "projectName": "Reservation.Services",
+        "projectPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/Reservation.Services.csproj",
+        "packagesPath": "/Users/hgunesdogdu/.nuget/packages/",
+        "outputPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hgunesdogdu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Infrastructure/Reservation.Infrastructure.csproj": {
+                "projectPath": "/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Infrastructure/Reservation.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Reservation.Services/1.0.0": {
+        "dependencies": {
+          "Reservation.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Reservation.Services.dll": {}
+        }
+      },
+      "Reservation.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Reservation.Models": "1.0.0"
+        },
+        "runtime": {
+          "Reservation.Infrastructure.dll": {}
+        }
+      },
+      "Reservation.Models/1.0.0": {
+        "runtime": {
+          "Reservation.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reservation.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reservation.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reservation.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

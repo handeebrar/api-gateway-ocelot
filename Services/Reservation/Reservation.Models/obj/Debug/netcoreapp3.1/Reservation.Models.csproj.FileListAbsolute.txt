@@ -1,0 +1,9 @@
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/bin/Debug/netcoreapp3.1/Reservation.Models.deps.json
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/bin/Debug/netcoreapp3.1/Reservation.Models.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/bin/Debug/netcoreapp3.1/Reservation.Models.pdb
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.csprojAssemblyReference.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.AssemblyInfoInputs.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.AssemblyInfo.cs
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.csproj.CoreCompileInputs.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Models/obj/Debug/netcoreapp3.1/Reservation.Models.pdb

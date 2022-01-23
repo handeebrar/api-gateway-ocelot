@@ -1,0 +1,12 @@
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/bin/Debug/netcoreapp3.1/Customer.Infrastructure.deps.json
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/bin/Debug/netcoreapp3.1/Customer.Infrastructure.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/bin/Debug/netcoreapp3.1/Customer.Infrastructure.pdb
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/bin/Debug/netcoreapp3.1/Customer.Models.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/bin/Debug/netcoreapp3.1/Customer.Models.pdb
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/obj/Debug/netcoreapp3.1/Customer.Infrastructure.csprojAssemblyReference.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/obj/Debug/netcoreapp3.1/Customer.Infrastructure.AssemblyInfoInputs.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/obj/Debug/netcoreapp3.1/Customer.Infrastructure.AssemblyInfo.cs
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/obj/Debug/netcoreapp3.1/Customer.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/obj/Debug/netcoreapp3.1/Customer.Infrastructure.csproj.CopyComplete
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/obj/Debug/netcoreapp3.1/Customer.Infrastructure.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Customer/Customer.Infrastructure/obj/Debug/netcoreapp3.1/Customer.Infrastructure.pdb

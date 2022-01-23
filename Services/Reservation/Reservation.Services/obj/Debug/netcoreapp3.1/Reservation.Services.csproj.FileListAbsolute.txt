@@ -1,0 +1,14 @@
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Services.deps.json
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Services.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Services.pdb
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Infrastructure.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Models.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Infrastructure.pdb
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/bin/Debug/netcoreapp3.1/Reservation.Models.pdb
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.csprojAssemblyReference.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.AssemblyInfoInputs.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.AssemblyInfo.cs
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.csproj.CoreCompileInputs.cache
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.csproj.CopyComplete
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.dll
+/Users/hgunesdogdu/Documents/personel projects/Booking/Services/Reservation/Reservation.Services/obj/Debug/netcoreapp3.1/Reservation.Services.pdb
