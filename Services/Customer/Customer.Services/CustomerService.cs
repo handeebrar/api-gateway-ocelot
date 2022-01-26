@@ -6,7 +6,7 @@ namespace Customer.Services
     {
         public Models.Customer GetCustomerById(string id)
         {
-            return new Models.Customer()
+            return new Models.Customer
             {
                 Id = id,
                 FirstName = "Gina",

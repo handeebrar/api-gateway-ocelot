@@ -8,7 +8,7 @@ namespace Customer.Api.Controllers
     public class CustomerController : ControllerBase
     {
         private readonly ICustomerService customerService;
-        
+
         public CustomerController(ICustomerService customerService)
         {
             this.customerService = customerService;

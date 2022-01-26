@@ -8,7 +8,7 @@ namespace Reservation.Api.Controllers
     public class ReservationController
     {
         private readonly IReservationService reservationService;
-        
+
         public ReservationController(IReservationService reservationService)
         {
             this.reservationService = reservationService;

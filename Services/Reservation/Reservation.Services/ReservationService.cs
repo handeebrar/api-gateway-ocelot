@@ -7,12 +7,12 @@ namespace Reservation.Services
     {
         public Models.Reservation GetReservationById(string id)
         {
-            return new Models.Reservation()
+            return new Models.Reservation
             {
                 Id = id,
-                TicketBarcode = (new Random().Next(100)),
+                TicketBarcode = new Random().Next(100),
                 ReservationDate = DateTime.Now.Date.AddDays(5),
-                Amount = (new Random().Next(5000)),
+                Amount = new Random().Next(5000)
             };
         }
     }
